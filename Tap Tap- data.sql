@@ -1,8 +1,6 @@
 Data: An SQL script that adds the requested data to your database under DB2.
 
-This will be a sequence of SQL INSERT statements. (Do not use IMPORT or LOAD 
-for this project. These are commands for bulk loading.)
-
+This will be a sequence of SQL INSERT statements.
 Saad Qamer
 ----------------------------------------------------
 
